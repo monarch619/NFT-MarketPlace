@@ -82,7 +82,7 @@ export default function MarketPlace() {
               </div>
               <h6 className="username">@koolkishansheth</h6>
               <div className="price-container">
-                <h5 className="price">5.5ETH</h5>
+                <h5 className="price">5 ALGO</h5>
                 <FaEthereum />
               </div>
             </div>
